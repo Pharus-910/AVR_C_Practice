@@ -1,0 +1,20 @@
+# PlatformIO
+.pio/
+
+# VS Code
+.vscode/
+
+# Compiled files
+*.o
+*.elf
+*.hex
+*.eep
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
